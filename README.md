@@ -1,2 +1,2 @@
-# cs663-assignment1
-CS663 Machine Learning Assignment 1
+#Ziyang Liu CS663 Assignment 1
+#code for K_Means & K_Means_Extend implementation in both .py and jupyter notebook
